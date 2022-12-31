@@ -1,0 +1,11 @@
+com\mycompany\web\servlets\InsertarLibroServlet.class
+com\mycompany\web\servlets\VerServlet.class
+com\mycompany\web\models\Lector.class
+com\mycompany\web\models\AccionesLector.class
+com\mycompany\web\models\AccionesLibro.class
+com\mycompany\web\servlets\InsertarServlet.class
+com\mycompany\web\models\Prestamo.class
+com\mycompany\web\servlets\VerLibroServlet.class
+com\mycompany\web\models\Libro.class
+com\mycompany\web\models\AccionesPrestamo.class
+com\mycompany\web\servlets\insertarPrestamoServlet.class
